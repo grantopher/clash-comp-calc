@@ -1,0 +1,27 @@
+{
+  "name": "ClashCompCalc",
+  "authors": [
+    "grantopher <shadowcarson@gmail.com>"
+  ],
+  "description": "A troop comp cost calculator so that you can keep getting that delicious loot",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "angular-material",
+    "clash-of-clans",
+    "web-application"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
